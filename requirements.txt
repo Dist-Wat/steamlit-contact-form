@@ -1,0 +1,4 @@
+streamlit | >_ pip install streamlit
+
+# running the app
+>_ streamlit run main.py 
